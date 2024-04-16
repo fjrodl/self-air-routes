@@ -6,7 +6,7 @@ dependencies:
   - osmnx=1.9.2
   - pillow
   - pre-commit
-  - python=3.11.*
+  - python=3.10.12
   - python-igraph
   - folium==0.16.0
   - geopy==2.4.1
