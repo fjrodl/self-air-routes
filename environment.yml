@@ -1,4 +1,4 @@
-name: self-air-routes
+name: selfairroutes
 channels:
   - conda-forge
 dependencies:
