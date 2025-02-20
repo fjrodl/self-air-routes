@@ -5,14 +5,20 @@
 
 # SELF-AIR Route Calculation
 
-To enhance the navigation paths for the quadruped robot, it's a cornerstone to identify and extract routes across varied terrains. 
-Besides, it will be necessary to obtain shorter distances and adapt to robot autonomy. 
+Efficient route planning is fundamental for improving the navigation capabilities of quadruped robots in diverse and challenging terrains. This repository focuses on identifying and extracting optimal routes while considering terrain variability, ensuring adaptability to the robot's autonomy, and minimizing travel distances.
 
-This repository focuses on showcasing a demo in Tabuyo Del Monte, leveraging diverse data extracted from QGIS.
+A key aspect of this work is integrating geospatial data to enhance path calculation. To demonstrate these capabilities, this repository presents a case study conducted in Tabuyo del Monte, leveraging QGIS-extracted data for route optimization. The approach aims to provide a more robust and adaptable navigation framework, essential for real-world applications in agriculture, wildlife monitoring, and autonomous exploration.
 
-## Original Messages
+The demo showcases how terrain analysis, GIS-based route extraction, and adaptive path planning contribute to the autonomous mobility of quadruped robots.
 
-### OSMnx Examples Gallery
+## Try It Online 🚀
+
+You can test this project interactively using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fjrodl/self-air-routes.git/HEAD)
+
+
+## Reference/Source Repository
+
+#### OSMnx Examples Gallery
 
 OSMnx 2.0 is coming soon: read the [migration guide](https://github.com/gboeing/osmnx/issues/1123).
 
@@ -27,8 +33,12 @@ This gallery contains step-by-step usage tutorials and feature demonstrations as
 - [Documentation](https://osmnx.readthedocs.io/)
 - [Journal article and citation info](https://geoffboeing.com/publications/osmnx-complex-street-networks/)
 
-### Acknowledgment: SELF-AIR Project
+## Acknowledgment: SELF-AIR Project
 
 Supporting Extensive Livestock Farming with the use of Autonomous Intelligent Robots 
 
 <img src="https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/robotics_wolf_minimal.png" alt= "SELF_AIR_logo" width="50%" height="50%">
+
+Grant TED2021-132356B-I00 funded by MCIN/AEI/10.13039/501100011033 and by the “European Union NextGenerationEU/PRTR"
+
+![SELF_AIR_EU eu_logo](https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/micin-financiadoUEnextgeneration-prtr-aei.png)
