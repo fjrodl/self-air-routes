@@ -26,3 +26,9 @@ This gallery contains step-by-step usage tutorials and feature demonstrations as
 - [OSMnx repo](https://github.com/gboeing/osmnx)
 - [Documentation](https://osmnx.readthedocs.io/)
 - [Journal article and citation info](https://geoffboeing.com/publications/osmnx-complex-street-networks/)
+
+### Acknowledgment: SELF-AIR Project
+
+Supporting Extensive Livestock Farming with the use of Autonomous Intelligent Robots 
+
+<img src="https://raw.githubusercontent.com/shepherd-robot/.github/main/profile/robotics_wolf_minimal.png" alt= "SELF_AIR_logo" width="50%" height="50%">
